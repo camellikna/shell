@@ -1,7 +1,7 @@
 #!/bin/bash
 set -x
 
-################
+#################
 # Instructions #
 ################
 # > Edit this file below to complete the homework assignment
